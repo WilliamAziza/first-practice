@@ -1,0 +1,27 @@
+h1 {
+	background: black;
+	color: white;
+	font-family: 'Lobster Two', cursive;
+
+}
+.Step_one {
+	color: white;
+	border: 6px solid green;
+	padding: 1px;
+	margin: 9px;
+	background: blueviolet;
+}
+
+h2 {
+	background: black;
+	color: white;
+	font-family: 'Poor Story', cursive;
+}
+
+ul {
+	font-family: 'Akaya Telivigala', cursive;
+
+}
+ol {
+	border: 1px solid black;
+}
